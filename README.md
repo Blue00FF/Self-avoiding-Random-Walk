@@ -4,7 +4,7 @@ Inspired by Coding Challenge No. 162 from The Coding Train (https://www.youtube.
 
 The aim of the project was to experiment with the language in order to perform a self-avoding random walk on a small grid. The same is possible without needing too much 
 computational power for larger grids and the user can adjust the dimension if they so desire by tweaking the "GRID_DIMENSION" parameter. I have found between 10 and 100 
-to be the best one as if we go past 100 the dimension of the points on the graph is not easily appreciable.
+to be the best one as if we go past 100 the dimension of the points on the graph cannot be easily appreciated.
 Writing this script allowed me to play around with a collection of objects instantiated from a custom class and look at what I could and couldn't do with them. Also, I 
 used the matplotlib "pause" method to create an animated version of the walk.
 
